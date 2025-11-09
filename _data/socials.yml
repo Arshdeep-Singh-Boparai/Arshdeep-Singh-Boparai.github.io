@@ -3,7 +3,7 @@
 # the socials will be displayed in the order they are defined here
 
  academia_edu:  https://kclpure.kcl.ac.uk/portal/en/persons/arshdeep.singh/ # Ex. https://organization.academia.edu/UserName
-  organization: King's College London # your organization as appears in the subdomain
+ organization: King's College London # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -27,7 +27,7 @@ email: arshdeep.singh@kcl.ac.uk # your email address
  linkedin_username: www.linkedin.com/in/arshdeep-singh-phd-39575763 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
- orcid_id: https://orcid.org/0000-0003-3465-0952# your ORCID ID
+ orcid_id: 0000-0003-3465-0952 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
