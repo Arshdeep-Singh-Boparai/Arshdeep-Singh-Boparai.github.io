@@ -11,6 +11,8 @@ profile:
   more_info: >
     <p>Department of Informatics</p>
     <p>King's College London</p>
+    <p>Visiting Researcher, CVSSP</p>
+    <p>University of Surrey</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
