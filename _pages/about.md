@@ -29,7 +29,7 @@ latest_posts:
 
 Arshdeep Singh is employed as a Research Fellow in the AI Hub in Generative Models, King's College London (KCL). He is a visiting researcher at the Centre for Vision Speech and Signal Processing (CVSSP), and  a Sustainability Fellow at the Institute for Sustainability, University of Surrey.
 
-Previosuly, He was employed as a Research Fellow in project “AI for Sound” funded through an Established Career Fellowship awarded by the Engineering and Physical Sciences Research Council (EPSRC) to Prof Mark Plumbley (Principal Investigator). In May 2023, Arshdeep has been selected as a Early career Acoustic champion for AI within EPSRC funded UK acoustic network, UKAN+.
+Previously, He was employed as a Research Fellow in project “AI for Sound” funded through an Established Career Fellowship awarded by the Engineering and Physical Sciences Research Council (EPSRC) to Prof Mark Plumbley (Principal Investigator). In May 2023, Arshdeep has been selected as a Early career Acoustic champion for AI within EPSRC funded UK acoustic network, UKAN+.
 
 Arshdeep has completed his PhD from IIT Mandi, India. His research focuses on designing machine learning frameworks for audio scene classification and compression of neural networks. During his PhD, he worked on sound-based health monitoring to identify the health of an industrial machine as a part of his internship work in Intel Bangalore. Earlier, he has completed his M.E from Panjab University, India and bagged a Gold medal. He has also worked as a Project fellow in CSIR-CSIO Chandigarh. 
 
