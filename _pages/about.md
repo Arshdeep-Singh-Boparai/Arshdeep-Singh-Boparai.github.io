@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>King's College London</a>.
+subtitle: <a href='https://www.kcl.ac.uk/'>King's College London</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AI_qury.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Informatics</p>
+    <p>King's College London</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
