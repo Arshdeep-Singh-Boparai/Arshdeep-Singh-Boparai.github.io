@@ -3,7 +3,7 @@ layout: page
 title: AI for Sound
 description: Research Fellow in Machine Learning for Sound
 img: assets/img/AIforSound.png
-html: {https://ai4s.surrey.ac.uk/}
+html: https://ai4s.surrey.ac.uk/
 importance: 1
 category: work
 related_publications: true
