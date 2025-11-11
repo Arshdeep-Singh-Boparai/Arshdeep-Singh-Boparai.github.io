@@ -6,7 +6,7 @@ img: assets/img/sound_wellbeing.png
 importance: 2
 html: https://www.surrey.ac.uk/digital-world-research-centre/funded-projects/sound-wellbeing-later-life
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 <!--
 Every project has a beautiful feature showcase page.
