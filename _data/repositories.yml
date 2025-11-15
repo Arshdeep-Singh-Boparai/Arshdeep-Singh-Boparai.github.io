@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Arshdeep-Singh-Boparai
+  - gbibbo
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Arshdeep-Singh-Boparai/E-PANNs
+  - Arshdeep-Singh-Boparai/DCASE2022_Challenge
+  - Arshdeep-Singh-Bopara/audio-pruning
+  - gbibbo/vad_demo
+  - Arshdeep-Singh-Boparai/Efficient_similarity_Pruning_Algo
+  - Arshdeep-Singh-Boparai/E-CONVNEXT
+  - Arshdeep-Singh-Boparai/passive-filter-pruning-Interspeech22
+
