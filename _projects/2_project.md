@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound wellbeing in later life
-description: Exploring wellbeing through contextual understanding of sound and sonic reminiscence.
+description: Research Associate
 img: assets/img/sound_wellbeing.png
 importance: 2
 category: work
