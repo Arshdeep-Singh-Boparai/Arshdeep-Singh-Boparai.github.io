@@ -430,7 +430,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-sound-wellbeing-in-later-life",
           title: 'Sound wellbeing in later life',
-          description: "Exploring wellbeing through contextual understanding of sound and sonic reminiscence.",
+          description: "Research Associate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
