@@ -1,13 +1,12 @@
 github_users:
   - Arshdeep-Singh-Boparai
-  - gbibbo
 
 repo_description_lines_max: 2
 
 github_repos:
   - Arshdeep-Singh-Boparai/E-PANNs
   - Arshdeep-Singh-Boparai/DCASE2022_Challenge
-  - Arshdeep-Singh-Bopara/audio-pruning
+  - Arshdeep-Singh-Boparai/audio-pruning
   - gbibbo/vad_demo
   - Arshdeep-Singh-Boparai/Efficient_similarity_Pruning_Algo
   - Arshdeep-Singh-Boparai/E-CONVNEXT
