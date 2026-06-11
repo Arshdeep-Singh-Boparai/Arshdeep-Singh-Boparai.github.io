@@ -34,7 +34,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 | Year | Title | Type | Venue | More Details | Link |
 |------|--------|------|--------|--------------|------|
-|2026  | Making sense of Noise with AI | Invited talk | Lambeth City Council, London | delviered lecture on how AI can be used to recognize sound events, generate sounds| 
+|2026  | Making sense of Noise with AI | Invited talk | Lambeth City Council, London | Delivered lecture on how AI can be used to recognize sound events, generate sounds| 
 | 2024 | Towards Sustainable Horizon: Exploring the Role of Data Analysis and AI in Research | Invited Talk | International Faculty Development Program (FDP) | Delivered an invited talk on leveraging data analytics and AI to support sustainable, impactful, and interdisciplinary research. | [Link](https://www.youtube.com/watch?v=7va5ZdJ6JeA&feature=youtu.be) |
 | 2024 |   Leaveraging AI to be an Artist in Acoustics  | Invited Talk | The Art of Being an Acoustician, National Oceanography Centre, Southampton, UK | Explored how AI can support creativity, innovation, and artistic expression in acoustics and audio research. | [Link](https://www.linkedin.com/posts/arshdeep-singh-phd-afhea-39575763_acoustics-ai-sustainability-activity-7178854248254730240-kGIO/) |
 | 2024 | Efficient AI Models for Audio Classification: A Step Towards Sustainable AI | Invited Talk | AI for Acoustics Event, Institute of Acoustics (IoA), UK | Presented research on efficient machine learning, model compression, and sustainable AI for audio analysis. | [Link](https://acoustics.ac.uk/artificial-intelligence-for-acoustics/) |
